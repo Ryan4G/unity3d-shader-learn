@@ -1,7 +1,7 @@
 ﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader "Unity Shader Book/Chapter 5/FalseColor"
+Shader "Unity Shaders Book/Chapter 5/FalseColor"
 {
 	SubShader
 	{
